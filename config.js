@@ -101,10 +101,10 @@ global.vs = '1.3.2-(beta)'
 global.vsJB = '4.0'
 
 global.gt = '𝑾𝑨𝑩𝑶𝑻-𝑴𝑫'
-global.yt = 'https://youtube.com/@gatadios'
+global.yt = 'https://youtube.com/@wilSMaC'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
+global.ig = 'https://www.instagram.com/cmwilmer4'
+global.md = 'https://github.com/Wilsmac/WABOT-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
 global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
@@ -121,7 +121,7 @@ global.nnnttt3 = 'https://chat.whatsapp.com/LVocHnQjrci6dM4TZdmhBH' //Grupo 8 CO
 global.nnnttt4 = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo 9 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/HOCsvLox0Ui7cwzTCeFhPP' //A.T.M.M
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/50250101139' //Dudas? escríbeme...
 
 global.wm = '𝑾𝑨𝑩𝑶𝑻-𝑴𝑫 : 𝑾𝑰𝑳𝑴𝑬𝑹 𝒀 𝑼𝑵𝑰𝑭𝑰𝑵𝑬𝑫'
 global.igfg = '𝑾𝑨𝑩𝑶𝒀-𝑴𝑫'
