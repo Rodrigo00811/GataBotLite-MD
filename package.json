@@ -15,16 +15,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/Rodrigo00811/GataBotLite-MD",
+"homepage": "https://github.com/Rodrigo00811/POLAR-MD",
 "author": {
 "name": "GataNina-Li" }, 
     
 "repository": {
 "type": "git",
- "url": "git+https://github.com/Rodrigo00811/GataBotLite-MD.git" },
+ "url": "git+https://github.com/Rodrigo00811/POLAR-MD.git" },
  
 "bugs": {
-"url": "https://github.com/Rodrigo00811/GataBotLite-MD/issues" },
+"url": "https://github.com/Rodrigo00811/POLAR-MD/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys",
