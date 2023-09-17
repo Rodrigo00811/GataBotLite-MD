@@ -17,6 +17,7 @@ global.owner = [
 ['50258115623', '𝙊𝙬𝙣𝙚𝙧 🥰', true], 
 ['19042018926'], ['14077384440']]
 
+
 global.mods = [] 
 global.prems = []
    
@@ -88,10 +89,10 @@ global.author = '𝑾𝒊𝒍𝒎𝒆𝒓'
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
-['50250101139', 'creador', 1], 
-['50258115623', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['14077384440', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
-['19042018926', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['18059196237', '𝒄𝒓𝒆𝒂𝒅𝒐𝒓', 1], 
+['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
+['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
@@ -102,14 +103,14 @@ global.vs = '1.3.2-(beta)'
 global.vsJB = '4.0'
 
 global.gt = '𝑾𝑨𝑩𝑶𝑻-𝑴𝑫'
-global.yt = 'https://youtube.com/@gatadios' 
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s' 
-global.ig = 'https://www.instagram.com/gata_dios";
-global.md = 'https://github.com/GataNina-Li/GataBot-MD' 
+global.yt = 'https://youtube.com/@gatadios'
+global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
+global.ig = 'https://www.instagram.com/gata_dios'
+global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
 global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nn2 = 'https://chat.whatsapp.com/I514IYZiwlGEQuoUj32DLU' //UPDATE 2
+global.nn2 = 'https://chat.whatsapp.com/HLXJUIznsbHJ3LF6pTgmh6' //UPDATE 2
 global.nna2 = 'https://chat.whatsapp.com/JRFOdyjNqhwEJcDQoBCHzL' //Help
 global.nn = 'https://chat.whatsapp.com/Ii0hagX0idw4C7Gxwts54x' //Grupo 1
 global.nnn = 'https://chat.whatsapp.com/LGHW0ZwLgpeH7Nsn4vlrWi' //Grupo 2
@@ -122,10 +123,10 @@ global.nnnttt3 = 'https://chat.whatsapp.com/LVocHnQjrci6dM4TZdmhBH' //Grupo 8 CO
 global.nnnttt4 = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo 9 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/HOCsvLox0Ui7cwzTCeFhPP' //A.T.M.M
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/50250101139' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
 
-global.wm = '𝑾𝑨𝑩𝑶𝑻-𝑴𝑫 : 𝑾𝑰𝑳𝑴𝑬𝑹 𝒀 𝑼𝑵𝑰𝑭𝑰𝑵𝑬𝑫'
-global.igfg = '𝑾𝑨𝑩𝑶𝒀-𝑴𝑫'
+global.wm = '𝑾𝑨𝑩𝑶𝑻-𝑴𝑫 : 𝑾𝑰𝑳𝑴𝑬𝑹 𝑶 𝑼𝑵𝑰𝑭𝑰𝑵𝑬𝑫'
+global.igfg = '𝑾𝑨𝑩𝑶𝑻-𝑴𝑫'
 global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
