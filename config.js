@@ -101,7 +101,7 @@ global.vs = '1.3.2-(beta)'
 global.vsJB = '4.0'
 
 global.gt = '𝑾𝑨𝑩𝑶𝑻-𝑴𝑫'
-global.yt = 'https://youtube.com/@wilSMaC'
+global.yt = 'https://youtube.com/@wilsmac6678?si=fSAxXIhnv8ab5bwC'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
 global.ig = 'https://www.instagram.com/cmwilmer4'
 global.md = 'https://github.com/Wilsmac/WABOT-MD'
