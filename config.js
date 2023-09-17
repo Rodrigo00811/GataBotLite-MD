@@ -95,7 +95,7 @@ global.official = [
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '🇱🇷' //agrega tú país ejemplo: 🇪🇨
+global.country = '' //agrega tú país ejemplo: 🇪🇨
 
 global.vs = '1.3.2-(beta)'
 global.vsJB = '4.0'
