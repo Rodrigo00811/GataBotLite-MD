@@ -92,8 +92,8 @@ global.official = [
 ['14077384440', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['19042018926', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
-global.mail = 'indefinido202@gmail.com' //agrega tú correo
-global.desc = 'soy unifined' //agrega una descripción corta
+global.mail = '' //agrega tú correo
+global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '🇱🇷' //agrega tú país ejemplo: 🇪🇨
 
