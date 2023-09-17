@@ -16,6 +16,7 @@ global.owner = [
 ['50250101139', 'unifined', true],
 ['50258115623', '𝙊𝙬𝙣𝙚𝙧 🥰', true], 
 ['19042018926'], ['14077384440']]
+
 global.mods = [] 
 global.prems = []
    
@@ -101,11 +102,11 @@ global.vs = '1.3.2-(beta)'
 global.vsJB = '4.0'
 
 global.gt = '𝑾𝑨𝑩𝑶𝑻-𝑴𝑫'
-global.yt = "https://youtube.com/@gatadios";
-global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s";
-global.ig = "https://www.instagram.com/gata_dios";
-global.md = "https://github.com/GataNina-Li/GataBot-MD";
-global.fb = "https://www.facebook.com/groups/872989990425789/";
+global.yt = 'https://youtube.com/@gatadios' 
+global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s' 
+global.ig = 'https://www.instagram.com/gata_dios";
+global.md = 'https://github.com/GataNina-Li/GataBot-MD' 
+global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
 global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
 global.nn2 = 'https://chat.whatsapp.com/I514IYZiwlGEQuoUj32DLU' //UPDATE 2
