@@ -64,7 +64,7 @@ npm start
 ### 🍁 TERMUX 24/7 🍁 
 > Comandos para realizar una ejecución 24/7
 - INICIAR
-> Use estos comandos dentro de la carpeta GataBotLite-MD
+> Use estos comandos dentro de la carpeta Polar-MD
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
@@ -74,12 +74,12 @@ termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 pm2 stop all && pm2 unstartup
 ```
 - REANUDAR 
-> Reanudar los procesos, usar dentro de la carpeta GataBotLite-MD 
+> Reanudar los procesos, usar dentro de la carpeta Polar-MD 
 ```bash
 pm2 start index.js 
 ```
 - VISUALIZAR EL PROCESO
-> Usar dentro de la carpeta GataBotLite-MD para ver en tiempo real
+> Usar dentro de la carpeta Polar-MD para ver en tiempo real
 ```bash
 pm2 logs 
 ```
