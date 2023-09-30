@@ -14,7 +14,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
 ['59162055926', '𝑪𝑹𝑬𝑨𝑫𝑶𝑹', true],
-['59172159906', '𝑶𝒘𝒏𝒆𝒓 🥰', true], 
+['59162055926', '𝑶𝒘𝒏𝒆𝒓 🥰', true], 
 ['14077384440']]
 
 global.mods = [] 
@@ -102,7 +102,7 @@ global.vs = '1.3.2-(beta)'
 global.vsJB = '4.0'
 
 global.gt = '𝑷𝑶𝑳𝑨𝑹-𝑴𝑫'
-global.yt = 'https://youtube.com/@gatadios'
+global.yt = 'https://youtube.com/@Polar-MD'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
 global.ig = 'https://www.instagram.com/gata_dios'
 global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
